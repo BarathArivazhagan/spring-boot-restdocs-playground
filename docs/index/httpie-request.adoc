@@ -1,0 +1,4 @@
+[source,bash]
+----
+$ http --form POST 'http://localhost:8080/user/create' 'userName=barath'
+----
